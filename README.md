@@ -1,2 +1,1 @@
-# homework-2
-HW 2
+# homework-02
