@@ -1,1 +1,1 @@
-# This is mai portfolio. 
+# This is my portfolio. 
