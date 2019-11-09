@@ -93,7 +93,7 @@ body {
 }
 
 #mainContent {
-    width: 590px;
+ 
     padding: 40px 30px 40px 30px;
     margin-bottom: 50px;
     background-color: white;
@@ -216,7 +216,6 @@ footer {
     }
 
     #mainContent {
-        width: 380px;
         padding: 40px 30px 40px 30px;
         margin-bottom: 50px;
         background-color: white;
