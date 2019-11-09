@@ -13,6 +13,6 @@ Credits: getbootstrap.com
 MIT License:
 
 Copyright (c)
-<img src="screenshot.index.png">
-<img src="screenshot.index2.png">
-<img src="screenshot.index3.png">
+<img src="assets/images/screenshot.index.png">
+<img src="assets/images/screenshot.index2.png">
+<img src="assets/images/screenshot.index3.png">
