@@ -6,7 +6,7 @@ Screenshots: https://github.com/Ana199816/homework-02/tree/master/assets/images
 
 Built With:
 
-Visual Code Studio Paint.net Photos Google Dev Tools
+Visual Code Studio 
 
 Credits: getbootstrap.com
 
